@@ -6,4 +6,4 @@ def novafun():
     return 'nesto'
 
 
-print novafun()
+print(novafun())
